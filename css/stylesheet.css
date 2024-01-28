@@ -1,5 +1,68 @@
 /* CSS Document */
 
+body {
+	background-image: url("/images/ollie-bg.png");
+	background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+	color: rgb(255, 255, 255);
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-size:3em;
+	font-weight: 400;
+	text-transform:uppercase;
+}
+
+h2 {
+	color: rgb(255, 255, 255);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	line-height:2em;
+	font-size: larger;
+}
+
+p {
+	color: rgb(255, 255, 255);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	line-height:1.8em;
+}
+
+a {
+	color: rgb(255, 255, 255);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+blockquote {
+	color: rgb(255, 255, 255);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-style: italic;
+	line-height:2em;
+	margin-left: 0;
+}
+
+ul {
+	color: rgb(255, 255, 255);
+}
+
+label {
+	color: rgb(255, 255, 255);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:medium;
+}
+
 .bio-photo {
 	padding: 5px;
+	width: 50%;
 }
+
+.content {
+	width: 80%;
+	max-width: 650px;
+	margin: 0 auto 0;
+	padding: 30px 0 50px 0;
+}
+
+.bottom-links {
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-size:2em;
