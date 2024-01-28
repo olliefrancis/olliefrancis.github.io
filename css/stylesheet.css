@@ -68,3 +68,12 @@ label {
 	font-family: 'Montagu+Slab', Arial, Helvetica, sans-serif;
 	font-size:2em;
 }
+
+
+/* Responsive styles */
+
+@media only screen and (max-width: 600px) {
+	h1 {
+		font-size:2em;
+	}
+}
