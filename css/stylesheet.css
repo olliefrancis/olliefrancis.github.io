@@ -19,13 +19,14 @@ h2 {
 	color: rgb(255, 255, 255);
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	line-height:2em;
-	font-size: larger;
+	font-size:1.4em;
+	padding-bottom: 30px;
 }
 
 p {
 	color: rgb(255, 255, 255);
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-	line-height:1.8em;
+	line-height:2em;
 }
 
 a {
@@ -38,8 +39,9 @@ blockquote {
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-size:larger;
 	font-style: italic;
-	line-height:2em;
+	line-height:1.6em;
 	margin-left: 0;
+	padding-top: 25px;
 }
 
 ul {
@@ -77,8 +79,18 @@ label {
 		font-size:2em;
 	}
 
+	h2 {
+		line-height:1.5em;
+		font-size:1.2em;
+	}
+
 	.content {
 		width: 90%;
 		padding: 20px 0 30px 0;
+	}
+
+	.bottom-links {
+		font-size:1.4em;
+		padding-top: 30px;
 	}
 }
