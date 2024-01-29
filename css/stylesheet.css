@@ -8,16 +8,16 @@ body {
 
 h1 {
 	color: rgb(255, 255, 255);
-	font-family: 'Montagu+Slab', Arial, Helvetica, sans-serif;
+	font-family: "pf-videotext", Arial, Helvetica, sans-serif;
 	font-size:3em;
 	font-weight: 400;
-	line-height: 1.4em;
+	line-height: 1.2em;
 	text-transform:uppercase;
 }
 
 h2 {
 	color: rgb(255, 255, 255);
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: "basic-sans", Arial, Helvetica, sans-serif;
 	line-height:2em;
 	font-size:1.4em;
 	padding-bottom: 30px;
@@ -25,18 +25,19 @@ h2 {
 
 p {
 	color: rgb(255, 255, 255);
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: "basic-sans", Arial, Helvetica, sans-serif;
+	font-size: large;
 	line-height:2em;
 }
 
 a {
 	color: rgb(255, 255, 255);
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: "basic-sans", Arial, Helvetica, sans-serif;
 }
 
 blockquote {
 	color: rgb(255, 255, 255);
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: "basic-sans", Arial, Helvetica, sans-serif;
 	font-size:larger;
 	font-style: italic;
 	line-height:1.6em;
@@ -50,7 +51,7 @@ ul {
 
 label {
 	color: rgb(255, 255, 255);
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: "basic-sans", Arial, Helvetica, sans-serif;
 	font-size:medium;
 }
 
@@ -67,7 +68,7 @@ label {
 }
 
 .bottom-links {
-	font-family: 'Montagu+Slab', Arial, Helvetica, sans-serif;
+	font-family: "pf-videotext", Arial, Helvetica, sans-serif;
 	font-size:2em;
 }
 
