@@ -38,7 +38,7 @@ a {
 blockquote {
 	color: rgb(255, 255, 255);
 	font-family: "basic-sans", Arial, Helvetica, sans-serif;
-	font-size:larger;
+	font-size:1.8em;
 	font-style: italic;
 	line-height:1.6em;
 	margin-left: 0;
@@ -71,6 +71,31 @@ label {
 	font-family: "pf-videotext", Arial, Helvetica, sans-serif;
 	font-size:2em;
 }
+
+.button1 {
+	background-color: #4180ff; /* Pink */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: large;
+	border-radius: 5px;
+	margin-top: 60px;
+  }
+
+  .button2 {
+	border: 0.2em solid #4180ff;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: large;
+	border-radius: 5px;
+  }
+
 
 
 /* Responsive styles */
