@@ -1,5 +1,7 @@
 /* CSS Document */
 
+/* Base elements */
+
 body {
 	background-image: url("/images/ollie-bg.png");
 	background-position: center center;
@@ -55,6 +57,8 @@ label {
 	font-size:medium;
 }
 
+/* Custom classes */
+
 .bio-photo {
 	padding: 0 40px 0 0;
 	width: 30%;
@@ -103,6 +107,8 @@ label {
 	font-size: large;
 	border-radius: 5px;
   }
+
+  /* Audio player */
 
   figure {
 	margin-left: 0;
