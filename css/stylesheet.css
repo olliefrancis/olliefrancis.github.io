@@ -81,9 +81,9 @@ label {
 }
 
 .button1 {
-	background-color: #4180ff; /* Pink */
+	background-color: #ffffff; /* Pink */
 	border: none;
-	color: white;
+	color: rgb(0, 0, 0);
 	padding: 15px 32px;
 	text-align: center;
 	text-decoration: none;
@@ -94,7 +94,7 @@ label {
   }
 
   .button2 {
-	border: 0.2em solid #4180ff;
+	border: 0.2em solid #ffffff;
 	color: white;
 	padding: 15px 32px;
 	text-align: center;
