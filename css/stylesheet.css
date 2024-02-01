@@ -2,6 +2,10 @@
 
 /* Base elements */
 
+html{
+    background-color: black;
+}
+
 body {
 	background-image: url("/images/ollie-bg.png");
 	background-position: center center;
