@@ -185,4 +185,8 @@ label {
 		padding: 0 0 8px 0;
 	  }
 	
-}
+	audio {
+		width: 260px;
+	}
+
+	}
